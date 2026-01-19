@@ -1,5 +1,5 @@
 # Johnson Ayomipo Tephilla-
-Mattruc number-24/13909
+Matric number-24/13909
 Computer science 
 200level
 
